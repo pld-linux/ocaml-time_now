@@ -50,7 +50,7 @@ używających biblioteki time_now.
 
 %package devel
 Summary:	Report the current time - development part
-Summary(pl.UTF-8):	Informacja o aktualnym czase - cześć programistyczna
+Summary(pl.UTF-8):	Informacja o aktualnym czase - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
